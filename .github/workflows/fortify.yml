@@ -13,8 +13,8 @@
 # documentation. If you need additional assistance, please contact Fortify support.                                                            #
 ################################################################################################################################################
 
-name: Fortify AST Scan
-uses: fortify/github-action@v2.2.0
+- name: Fortify AST Scan
+  uses: fortify/github-action@v2.2.0
 
 # Customize trigger events based on your DevSecOps process and/or policy
 on:

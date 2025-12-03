@@ -14,6 +14,7 @@
 ################################################################################################################################################
 
 name: Fortify AST Scan
+uses: fortify/github-action@v2.2.0
 
 # Customize trigger events based on your DevSecOps process and/or policy
 on:
